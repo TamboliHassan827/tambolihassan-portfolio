@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tambolihassan.onrender.com/sitemap.xml
+Sitemap: https://tambolihassan-portfolio.onrender.com/sitemap.xml
